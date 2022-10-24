@@ -53,26 +53,26 @@ RPG Style Game
 
 ## Goals
 
-1.) Finish the game, even it if takes a few years
-2.) Learn some better practices for modeling, worst skill in workflow
-3.) Learn mechanics like saving progress and true animation rigging
-4.) Learn Unity's visual scripting language for AI and the like developement
-5.) Learn how to make various levels of AI based on game progression
-6.) Dynamically enemy difficulty, both backwards and forwards in game progression
-	a.) The beginning areas will scale with your progression as will the forward areas. 
-		EXAMPLE: If a starting region enemy is "level 1", and you are "level 30", then the starting area will have enemies at "level 20"
-	b.) Previous areas will easier still, but will at least have a challenge to them.
-7.) Learn better practices of code maintainability and generality 
-8.) Learn how to sell the game
-	a.) Set up the stuff for Steam
-	b.) Set up for GOG
+	1.) Finish the game, even it if takes a few years
+	2.) Learn some better practices for modeling, worst skill in workflow
+	3.) Learn mechanics like saving progress and true animation rigging
+	4.) Learn Unity's visual scripting language for AI and the like developement
+	5.) Learn how to make various levels of AI based on game progression
+	6.) Dynamically enemy difficulty, both backwards and forwards in game progression
+		a.) The beginning areas will scale with your progression as will the forward areas. 
+			EXAMPLE: If a starting region enemy is "level 1", and you are "level 30", then the starting area will have enemies at "level 20"
+		b.) Previous areas will easier still, but will at least have a challenge to them.
+	7.) Learn better practices of code maintainability and generality 
+	8.) Learn how to sell the game
+		a.) Set up the stuff for Steam
+		b.) Set up for GOG
 
 ## ECD Goals
 
-1.) Tenative Alpha - Q2 2023
-2.) Tenative Beta - Q4 2023
-3.) Tenative Early Acces - Q2 2024
-4.) Tenative Full Release - Q1 2025
+	1.) Tenative Alpha - Q2 2023
+	2.) Tenative Beta - Q4 2023
+	3.) Tenative Early Acces - Q2 2024
+	4.) Tenative Full Release - Q1 2025
 
 
 
