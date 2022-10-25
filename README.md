@@ -9,47 +9,52 @@ RPG Style Game
 1.) Skill system like Dark Souls<br/>
 2.) Turn based combat (reminicent of Final Fantasy)<br/>
 3.) NO CRAFTING (Only looting to get weapons and gear)<br/>
-	a.) Player is not well rounded, basically a mercenary for hire<br/>
-4.) Classes<br/>
-	a.) Melee<br/>
-	b.) Ranger<br/>
-	c.) Engineer<br/>
-	d.) Healer<br/>
-	e.) Tamer<br/>
-<br/>
-\*Subclasses in each of these potentially for specing into various types<br/>
+> a.) Player is not well rounded, basically a mercenary for hire<br/>
+4.) Classes\* <br/>
+> a.) Melee<br/>
+> b.) Ranger<br/>
+> c.) Engineer<br/>
+> d.) Healer<br/>
+> e.) Tamer<br/>
 5.) Open world, but linear progression like Final Fantasy<br/>
+<sub> \*Subclasses in each of these potentially for specing into various types<br/> <sub/>
 
 ### Aestetic
-	1.) Art style
-		a.) Overworld map 
-			i.) Isometric voxel art
-		b.) Overworld playable
-			i.) Sprite based character
-			ii.) In-world objects voxelized?
-			iii.) Enemies/Bosses depends on the place and story
-		c.) Items/Inventory
-			i.) Tile inventory
-			ii.) Fo-Voxel items
-			iii.) Custom font for UI
-		d.) Battle Scene
-			i.) Dynamic Backround
-				1.) Trees/flowers animated
-				2.) Based on area various fluids moving
-				3.) Potential for life within the background
-			ii.) Characters could be Fo-Voxel or isometric (depending on confidence with modeling)
-			iii.) Animations will be mixture of 2D sprites and 3D voxel particals depending on skills
+1.) Art style<br/>
 
-		e.) Would like to try a painting style of art, kind of like Don't Starve, but more painted (wet/brushstroke look)
+> a.) Overworld map<br/>
+>> i.) Isometric voxel art<br/>
 
-	2.) Music
-		a.) Based on area, will need to find a good set of instruments
-			i.) Can use Finale for the time being to get good MIDI tracks
-			ii.) Certain tracks will need to be hand played to emphasize story
-		b.) Styles
-			i.) Overworld areas mostly with rock-ish beats
-			ii.) Battles with more driving beat and odd instruments based on enemy type/area/boss
-			iii.) Village themes based on regions
+> b.) Overworld playable<br/>
+>> i.) Sprite based character<br/>
+>> ii.) In-world objects voxelized?<br/>
+>> iii.) Enemies/Bosses depends on the place and story<br/>
+
+> c.) Items/Inventory<br/>
+>> i.) Tile inventory<br/>
+>> ii.) Fo-Voxel items<br/>
+>> iii.) Custom font for UI<br/>
+
+> d.) Battle Scene<br/>
+>> i.) Dynamic Backround<br/>
+>>> 1.) Trees/flowers animated<br/>
+>>> 2.) Based on area various fluids moving<br/>
+>>> 3.) Potential for life within the background<br/>
+>> ii.) Characters could be Fo-Voxel or isometric (depending on confidence with modeling)<br/>
+>> iii.) Animations will be mixture of 2D sprites and 3D voxel particals depending on skills<br/>
+
+> e.) Would like to try a painting style of art, kind of like Don't Starve, but more painted (wet/brushstroke look)<br/>
+
+2.) Music<br/>
+
+> a.) Based on area, will need to find a good set of instruments<br/>
+>> i.) Can use Finale for the time being to get good MIDI tracks<br/>
+>> ii.) Certain tracks will need to be hand played to emphasize story<br/>
+
+> b.) Styles<br/>
+>> i.) Overworld areas mostly with rock-ish beats<br/>
+>> ii.) Battles with more driving beat and odd instruments based on enemy type/area/boss<br/>
+>> iii.) Village themes based on regions<br/>
 
 ### More things will appear as I see the need
 
