@@ -3,20 +3,22 @@
 ## Ideas
 RPG Style Game
 
-### Mechanics
-	1.) Skill system like Dark Souls
-	2.) Turn based combat (reminicent of Final Fantasy)
-	3.) NO CRAFTING (Only looting to get weapons and gear)
-		a.) Player is not well rounded, basically a mercenary for hire
-	4.) Classes
-		a.) Melee
-		b.) Ranger
-		c.) Engineer
-		d.) Healer
-		e.) Tamer
+### Story
 
-		*Subclasses in each of these potentially for specing into various types
-	5.) Open world, but linear progression like Final Fantasy
+### Mechanics
+1.) Skill system like Dark Souls
+2.) Turn based combat (reminicent of Final Fantasy)
+3.) NO CRAFTING (Only looting to get weapons and gear)
+	a.) Player is not well rounded, basically a mercenary for hire
+4.) Classes
+	a.) Melee
+	b.) Ranger
+	c.) Engineer
+	d.) Healer
+	e.) Tamer
+
+\*Subclasses in each of these potentially for specing into various types
+5.) Open world, but linear progression like Final Fantasy
 
 ### Aestetic
 	1.) Art style
