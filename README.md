@@ -4,6 +4,30 @@
 RPG Style Game
 
 ### Story
+1.) Setting Ideas<br/>
+&nbsp; a.) Era much like Horizon series, but not for the same reasons<br/>
+&nbsp; b.) Era of tech losses due to solar flares and the moon moving out in its orbit, causing weird climate changes<br/>
+2.) Entity Ideas<br/>
+&nbsp; a.) Machines like Horizon<br/>
+&nbsp; b.) Some wildlife for hunting to get materials for quests and or other mechanic<br/>
+&nbsp; c.) People, different tribes<br/>
+3.) Item Ideas<br/>
+&nbsp; a.) Weapons
+&nbsp; &nbsp; i.) Bows and Swords
+&nbsp; &nbsp; &nbsp; 1.) Customizable furniture and ammunitions
+&nbsp; &nbsp; ii.) Firearms
+&nbsp; &nbsp; &nbsp; 1.) Customizable ammunition
+&nbsp; &nbsp; &nbsp; 2.) Customizable attachments
+&nbsp; &nbsp; &nbsp; 3.) Must be incredibly rare, as old world is much destroyed
+&nbsp; &nbsp; &nbsp; 4.) Can be looted from machines, but these weapons are incredibly difficult to use
+&nbsp; &nbsp; iii.) Traps
+&nbsp; &nbsp; &nbsp; 1.) Usable by engineers for more effect
+&nbsp; &nbsp; &nbsp; 2.) Traditional dart and spike, but also more "custom" traps
+&nbsp; &nbsp; &nbsp; 3.) Only type of crafting, but only by the engineer, all other classes are dumb
+&nbsp; &nbsp; &nbsp; 4.) Magicians can also create magical traps, but take an incredible amount of energy (very powerfull as well)
+&nbsp; &nbsp; iv.) Environment
+&nbsp; &nbsp; &nbsp; 1.) Landscape damage (lava, water, gases)
+&nbsp; &nbsp; &nbsp; 2.) Optional methods of defeat based on location (trees, rocks, certain attack at a certain time)
 
 ### Mechanics
 1.) Skill system like Dark Souls<br/>
@@ -17,6 +41,7 @@ RPG Style Game
 &nbsp; d.) Healer<br/>
 &nbsp; e.) Tamer<br/>
 5.) Open world, but linear progression like Final Fantasy<br/>
+6.) Day-Night Cycle to have different enemies appear and be weaker or stronger, and other affects
 <sub> \*Subclasses in each of these potentially for specing into various types<br/> <sub/>
 
 ### Aestetic
@@ -60,26 +85,25 @@ RPG Style Game
 
 ## Goals
 
-	1.) Finish the game, even it if takes a few years
-	2.) Learn some better practices for modeling, worst skill in workflow
-	3.) Learn mechanics like saving progress and true animation rigging
-	4.) Learn Unity's visual scripting language for AI and the like developement
-	5.) Learn how to make various levels of AI based on game progression
-	6.) Dynamically enemy difficulty, both backwards and forwards in game progression
-		a.) The beginning areas will scale with your progression as will the forward areas. 
-			EXAMPLE: If a starting region enemy is "level 1", and you are "level 30", then the starting area will have enemies at "level 20"
-		b.) Previous areas will easier still, but will at least have a challenge to them.
-	7.) Learn better practices of code maintainability and generality 
-	8.) Learn how to sell the game
-		a.) Set up the stuff for Steam
-		b.) Set up for GOG
+1.) Finish the game, even it if takes a few years<br/>
+2.) Learn some better practices for modeling, worst skill in workflow<br/>
+3.) Learn mechanics like saving progress and true animation rigging<br/>
+4.) Learn Unity's visual scripting language for AI and the like developement<br/>
+5.) Learn how to make various levels of AI based on game progression<br/>
+6.) Dynamically enemy difficulty, both backwards and forwards in game progression<br/>
+&nbsp; a.) The beginning areas will scale with your progression as will the forward areas<br/>
+&nbsp; &nbsp; EXAMPLE: If a starting region enemy is "level 1", and you are "level 30", then the starting area will have enemies at "level 20"<br/>
+&nbsp; b.) Previous areas will easier still, but will at least have a challenge to them<br/>
+7.) Learn better practices of code maintainability and generality<br/>
+8.) Learn how to sell the game<br/>
+&nbsp; a.) Set up the stuff for Steam<br/>
+&nbsp; b.) Set up for GOG<br/>
 
 ## ECD Goals
-
-	1.) Tenative Alpha - Q2 2023
-	2.) Tenative Beta - Q4 2023
-	3.) Tenative Early Acces - Q2 2024
-	4.) Tenative Full Release - Q1 2025
+1.) Tenative Alpha - Q2 2023<br/>
+2.) Tenative Beta - Q4 2023<br/>
+3.) Tenative Early Acces - Q2 2024<br/>
+4.) Tenative Full Release - Q1 2025<br/>
 
 
 
