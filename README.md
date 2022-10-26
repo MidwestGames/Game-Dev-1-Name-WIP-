@@ -12,22 +12,22 @@ RPG Style Game
 &nbsp; b.) Some wildlife for hunting to get materials for quests and or other mechanic<br/>
 &nbsp; c.) People, different tribes<br/>
 3.) Item Ideas<br/>
-&nbsp; a.) Weapons
-&nbsp; &nbsp; i.) Bows and Swords
-&nbsp; &nbsp; &nbsp; 1.) Customizable furniture and ammunitions
-&nbsp; &nbsp; ii.) Firearms
-&nbsp; &nbsp; &nbsp; 1.) Customizable ammunition
-&nbsp; &nbsp; &nbsp; 2.) Customizable attachments
-&nbsp; &nbsp; &nbsp; 3.) Must be incredibly rare, as old world is much destroyed
-&nbsp; &nbsp; &nbsp; 4.) Can be looted from machines, but these weapons are incredibly difficult to use
-&nbsp; &nbsp; iii.) Traps
-&nbsp; &nbsp; &nbsp; 1.) Usable by engineers for more effect
-&nbsp; &nbsp; &nbsp; 2.) Traditional dart and spike, but also more "custom" traps
-&nbsp; &nbsp; &nbsp; 3.) Only type of crafting, but only by the engineer, all other classes are dumb
-&nbsp; &nbsp; &nbsp; 4.) Magicians can also create magical traps, but take an incredible amount of energy (very powerfull as well)
-&nbsp; &nbsp; iv.) Environment
-&nbsp; &nbsp; &nbsp; 1.) Landscape damage (lava, water, gases)
-&nbsp; &nbsp; &nbsp; 2.) Optional methods of defeat based on location (trees, rocks, certain attack at a certain time)
+&nbsp; a.) Weapons<br/>
+&nbsp; &nbsp; i.) Bows and Swords<br/>
+&nbsp; &nbsp; &nbsp; 1.) Customizable furniture and ammunitions<br/>
+&nbsp; &nbsp; ii.) Firearms<br/>
+&nbsp; &nbsp; &nbsp; 1.) Customizable ammunition<br/>
+&nbsp; &nbsp; &nbsp; 2.) Customizable attachments<br/>
+&nbsp; &nbsp; &nbsp; 3.) Must be incredibly rare, as old world is much destroyed<br/>
+&nbsp; &nbsp; &nbsp; 4.) Can be looted from machines, but these weapons are incredibly difficult to use<br/>
+&nbsp; &nbsp; iii.) Traps<br/>
+&nbsp; &nbsp; &nbsp; 1.) Usable by engineers for more effect<br/>
+&nbsp; &nbsp; &nbsp; 2.) Traditional dart and spike, but also more "custom" traps<br/>
+&nbsp; &nbsp; &nbsp; 3.) Only type of crafting, but only by the engineer, all other classes are dumb<br/>
+&nbsp; &nbsp; &nbsp; 4.) Magicians can also create magical traps, but take an incredible amount of energy (very powerfull as well)<br/>
+&nbsp; &nbsp; iv.) Environment<br/>
+&nbsp; &nbsp; &nbsp; 1.) Landscape damage (lava, water, gases)<br/>
+&nbsp; &nbsp; &nbsp; 2.) Optional methods of defeat based on location (trees, rocks, certain attack at a certain time)<br/>
 
 ### Mechanics
 1.) Skill system like Dark Souls<br/>
